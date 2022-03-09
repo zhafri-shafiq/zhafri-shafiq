@@ -1,6 +1,8 @@
 <h3 align="center"> Hey 👋, I'm Zhafri!</h3>
 
-<img align="center" src="https://github.com/zhafri-shafiq/zhafri-shafiq/blob/main/assets/one-piece-run-zoro-run.gif" alt="zhafri-shafiq" />
+<div align="center">
+  <img src="https://github.com/zhafri-shafiq/zhafri-shafiq/blob/main/assets/one-piece-run-zoro-run.gif" alt="zhafri-shafiq" />
+</div>
 
 <h3 align="center">About Me!</h3>
 
